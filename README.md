@@ -1,5 +1,5 @@
 # Sagemaker_Plagiarism_Detection
-This repo is based on one of the projects I worked on while taking Udacity'st ML Engineer Nanodegree. I modified some the original notebooks to have a more fluent understanding of the whole process.
+This repo is based on one of the projects I worked on while taking Udacity'st ML Engineer Nanodegree. I modified the original notebooks to have a more fluent understanding of the whole process.
 
 The goal was to build a plagiarism detector in **Sagemaker** that examines an answer text file and performs binary classification. In order to achieve this, it was necessary to transform the raw text files into meaningful features that would capture the degree of similarity between the answer text and a particular source text (See **2_Plagiarism_Feature_Engineering** notebook for a detailed description). 
 
